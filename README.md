@@ -7,7 +7,7 @@ Aprenda programação com esses programas:
 ---
 
 ### Exemplos de HTML
-- [Tags HTML](/HTML/exemplo1.html)
+- [Tags HTML](/HTML/tags.html)
 
 ### Exemplos de Java
 
