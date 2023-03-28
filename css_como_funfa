@@ -1,0 +1,6 @@
+Como funciona? 
+O CSS usa seletores para identificar os elementos HTML a serem estilizados e, logo em seguida, aplica as propriedades de estilo para esses elementos. 
+As propriedades CSS incluem coisas como cor, tamanho da fonte, espaçamento, posicionamento e alinhamento, dentre muitas outras.
+Ao usar o CSS, os desenvolvedores podem criar estilos consistentes em todo o site e tornar a manutenção do site muito mais fácil.
+
+
